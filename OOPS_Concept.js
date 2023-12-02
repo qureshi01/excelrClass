@@ -6,6 +6,7 @@ class Account{
         this.type=type;
         this.registrationAmount=registrationAmount;
         this.balance=registrationAmount;
+        console.log("hghghghg");
     }
     withdraw(amountToWithdraw){
         console.log(`I want to withdraw ${amountToWithdraw} from my ${this.type} account`);
