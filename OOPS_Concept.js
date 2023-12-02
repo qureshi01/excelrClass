@@ -1,3 +1,6 @@
+//NEW CHANGES
+
+
 class Account{
     constructor(type, registrationAmount){ //ARE VERY PRIVATE TO PARTICULAR CLASS
         this.type=type;
